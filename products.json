@@ -27,4 +27,12 @@
         "description": "Viking sticker",
         "price": 34.99
     }
+    ,
+    {
+        "id": "5",
+        "title": "Bomber",
+        "image": "viking.svg",
+        "description": "Bomber sticker",
+        "price": 99.99
+    }
 ]
